@@ -118,3 +118,13 @@
 .challengeSucceededButton:hover {
   background: #399c22;
 }
+
+@media (max-width: 1000px) {
+  .challengeActive main {
+    margin-top: 1.5rem;
+  }
+
+  .challengeActive main p {
+    margin-bottom: 1.5rem;
+  }
+}

@@ -80,3 +80,9 @@
   color: var(--text);
   cursor: not-allowed;
 }
+
+@media (max-width: 1000px) {
+  .countdownButton {
+    margin-top: 2rem;
+  }
+}
